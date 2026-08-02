@@ -1,0 +1,6 @@
+{
+  "name": "BoloPhone",
+  "description": "BoloPhone: A privacy-first, offline-capable voice automation system providing complete hands-free control via Hindi, Hinglish, and English voice commands.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
